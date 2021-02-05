@@ -10,16 +10,17 @@ _learned till now based on the es6 syntax_
  this , currentscope , undefined , NaN
  Array concat()
 Join several arrays into one
-indexOf()
-join()
+
+####indexOf()
+####join()
 Combine elements of an array into a single string and return the string
-lastIndexOf()
+####lastIndexOf()
 Gives the last position at which a given element appears in an array
- Interpolation using + operator ( uses of all operators logical and
+#### Interpolation using + operator ( uses of all operators logical and
  relational such as <= , === , etc.
  
-  ## Functions ( arguments, nested etc)
-  ## Objects ( property , object call etc)
+  ### Functions ( arguments, nested etc)
+  ### Objects ( property , object call etc)
   
   *The learning agenda of this week:-*
 
