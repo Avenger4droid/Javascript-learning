@@ -11,10 +11,10 @@ _learned till now based on the es6 syntax_
  Array concat()
 Join several arrays into one
 
-####indexOf()
-####join()
+#### indexOf()
+#### join()
 Combine elements of an array into a single string and return the string
-####lastIndexOf()
+#### lastIndexOf()
 Gives the last position at which a given element appears in an array
 #### Interpolation using + operator ( uses of all operators logical and
  relational such as <= , === , etc.
